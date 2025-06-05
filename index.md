@@ -49,14 +49,14 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+###### PROJECt PROGRESS
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Project      | Platform            | Completion     |
+|:-------------|:--------------------|:---------------|
+| Home lab     | Proxmox             | [======] 100%  |
+| SIEM         | WAZUH integrations  | [======] 100%  |
+| SIEM         | WAZUH rules for EDR | [==    ] 25%   |
+| SIEM         | WAZUH Network ARM   | [      ] 0%    |
 
 ### There's a horizontal rule below this.
 
